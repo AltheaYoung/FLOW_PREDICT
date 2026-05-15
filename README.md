@@ -76,3 +76,9 @@ FLOW_PREDICT/
 │   └── train_out.py    # Training & inference for flow prediction
 ├── README.md
 └── requirements.txt
+
+## 🛠️ Tech Stack
+-Languages & Frameworks: Python, PyTorch
+-Libraries: NumPy, Pandas
+-Models & Methods: Bi-LSTM, Seq2Seq, Attention, Discrete Event Simulation (DES), Mixed Integer Programming (MIP)
+-Solver: Gurobi
