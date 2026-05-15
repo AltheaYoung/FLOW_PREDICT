@@ -67,10 +67,12 @@ The system consists of three highly coupled core modules:
 ---
 
 ## 🛠️ Tech Stack
--Languages & Frameworks: Python, PyTorch
--Libraries: NumPy, Pandas
--Models & Methods: Bi-LSTM, Seq2Seq, Attention, Discrete Event Simulation (DES), Mixed Integer Programming (MIP)
--Solver: Gurobi
+- Languages & Frameworks: Python, PyTorch
+- Libraries: NumPy, Pandas
+- Models & Methods: Bi-LSTM, Seq2Seq, Attention, Discrete Event Simulation (DES), Mixed Integer Programming (MIP)
+- Solver: Gurobi
+
+---
 
 ## 📂 Project Structure
 ```text
